@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World EC2 windows launched  test CHANGES !</h2>
+<h2>Hello World EC2 windows launched  CHANGES !</h2>
 </body>
 </html>
